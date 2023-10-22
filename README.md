@@ -1,2 +1,3 @@
-# CICD
-DevOps Pipeline Continuous Integration Continuous Delivery
+# Tic Tac Toe Game
+
+Learn GitHub Actions through a fun little game.
